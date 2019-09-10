@@ -1,0 +1,39 @@
+*{
+	margin-top:  0px;
+  padding-top: 0px;
+  background-color: blueviolet;
+
+}
+
+body{
+
+	margin: 0;
+  padding: 0;
+  background-color: blueviolet;
+	//background-image: url('../img/Home_Page.jpg');
+	background-size: cover;
+	/* background-position: center; */
+  // font-family: sans-serif;
+
+
+}
+
+.bill_background{
+
+	/* margin-top: 50px; */
+	width: 850px; /*loginsystem eka yatin thiyana kalu box eka haduva*/
+	height: 720px;
+    background:darkblue;
+  /*  opacity: 0.6;  /*opacity use to limit transparence */
+	color: #fff;
+	top: 0%;
+	left: 0%;
+	position: absolute;
+	/* transform: translate(-50%,-50%); */
+	box-sizing: border-box;
+
+	/*padding: 70px 30px; mekath hari. yatin thiyana visiyata 2k liwvath hari*/
+	padding-left: 30px;
+    padding-top: 70px;
+
+}
